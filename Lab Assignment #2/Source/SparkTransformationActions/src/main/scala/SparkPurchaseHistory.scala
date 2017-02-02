@@ -19,11 +19,11 @@ object SparkPurchaseHistory {
 
     if (purchases.count() > 0) {
 
-      val combined = customers.join(purchases)
+      val combined = customers.join(purchases).cache()
+
+      combined.sortByKey()
 
       val result = combined.reduceByKey((p1, p2) => (p1._1, p1._2 + p2._2))
-
-      result.sortByKey()
 
       result.saveAsTextFile("PurchasesByCustomer")
     }
