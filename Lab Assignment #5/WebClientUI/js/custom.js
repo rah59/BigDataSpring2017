@@ -26,7 +26,7 @@ $(function () {
     console.log(base64);
     $.ajax({
       type: "POST",
-      url: "http://127.0.01:8080/raj",
+      url: "http://127.0.0.1:8080/raj",
       data: base64,
       success: function (result) {
           alert("Post Successful");
