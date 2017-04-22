@@ -1,0 +1,86 @@
+﻿{"images":
+[{"sentids": [0], "imgid": 0, "sentences":
+[{"tokens": ["the", "round", "clock", "is", "attached", "to", "the", "wing"], "raw": "the round clock is attached to the wing .", "imgid": 0, "sentid": 0}],
+"split": "train", "filename": "0.jpg"},
+
+{"sentids": [1], "imgid": 1, "sentences":
+[{"tokens": ["a", "group", "of", "people", "on", "a", "skateboard"], "raw": "a group of people on a skateboard .", "imgid": 1, "sentid": 1}],
+"split": "train", "filename": "1.jpg"},
+
+{"sentids": [2], "imgid": 2, "sentences":
+[{"tokens": ["a", "man", "riding", "a", "wave", "on", "top", "of", "a", "surfboard"], "raw": "a man riding a wave on top of a surfboard .", "imgid": 2, "sentid": 2}],
+"split": "train", "filename": "2.jpg"},
+
+{"sentids": [3], "imgid": 3, "sentences":
+[{"tokens": ["a", "table", "topped", "with", "books", "and", "a", "laptop", "indoors"], "raw": "a table topped with books and a laptop indoors .", "imgid": 3, "sentid": 3}],
+"split": "train", "filename": "3.jpg"},
+
+{"sentids": [4], "imgid": 4, "sentences":
+[{"tokens": ["a", "man", "standing", "next", "to", "a", "yellow", "motorcycle"], "raw": "a man standing next to a yellow motorcycle .", "imgid": 4, "sentid": 4}],
+"split": "train", "filename": "4.jpg"},
+
+{"sentids": [5], "imgid": 5, "sentences":
+[{"tokens": ["a", "man", "preparing", "to", "hit", "a", "refrigerator"], "raw": "a man preparing to hit a refrigerator .", "imgid": 5, "sentid": 5}],
+"split": "train", "filename": "5.jpg"},
+
+{"sentids": [6], "imgid": 6, "sentences":
+[{"tokens": ["a", "woman", "hits", "a", "tennis", "ball", "with", "her","racket"], "raw": "a woman hits a tennis ball with her racquet .", "imgid": 6, "sentid": 6}],
+"split": "train", "filename": "6.jpg"},
+
+{"sentids": [7], "imgid": 7, "sentences":
+[{"tokens": ["a", "bunch", "of", "dishes", "are", "in", "a", "public","bathroom"], "raw": "a bunch of dishes are in a public bathroom .", "imgid": 7, "sentid": 7}],
+"split": "train", "filename": "7.jpg"},
+
+{"sentids": [8], "imgid": 8, "sentences":
+[{"tokens": ["a", "man", "dressed", "in", "a", "blue", "shirt", "cutting","a","newspaper"], "raw": "a man dressed in a blue shirt cutting a newspaper .", "imgid": 8, "sentid": 8}],
+"split": "train", "filename": "8.jpg"},
+
+{"sentids": [9], "imgid": 9, "sentences":
+[{"tokens": ["a", "giraffe", "standing", "in", "a", "grassy", "area", "with","trees","in","the","background"], "raw": "a giraffe standing in a grassy area with trees in the background .", "imgid": 9, "sentid": 9}],
+"split": "train", "filename": "9.jpg"},
+
+{"sentids": [10], "imgid": 10, "sentences":
+[{"tokens": ["a", "close", "up", "of", "a", "cake", "on", "a","plate"], "raw": "a close up of a cake on a plate .", "imgid": 10, "sentid": 10}],
+"split": "train", "filename": "10.jpg"},
+
+{"sentids": [11], "imgid": 11, "sentences":
+[{"tokens": ["the", "has", "pizza", "on", "it"], "raw": "the has pizzas on it .", "imgid": 11, "sentid": 11}],
+"split": "train", "filename": "11.jpg"},
+
+{"sentids": [12], "imgid": 12, "sentences":
+[{"tokens": ["a", "man", "riding", "a", "surfboard", "on", "top", "of","an","ocean"], "raw": "a man riding a surfboard on top of an ocean wave .", "imgid": 12, "sentid": 12}],
+"split": "train", "filename": "12.jpg"},
+
+{"sentids": [13], "imgid": 13, "sentences":
+[{"tokens": ["a", "man", "throws", "a", "frisbee", "on", "a", "dirt","road"], "raw": "a man throws a frisbee on a dirt road .", "imgid": 13, "sentid": 13}],
+"split": "train", "filename": "13.jpg"},
+
+{"sentids": [14], "imgid": 14, "sentences":
+[{"tokens": ["a", "man", "with", "a", "uniform", "standing", "next", "to","a","stop","sign"], "raw": "a man with a uniform standing next to a stop sign .", "imgid": 14, "sentid": 14}],
+"split": "train", "filename": "14.jpg"},
+
+{"sentids": [15], "imgid": 15, "sentences":
+[{"tokens": ["a", "plate", "with", "a", "piece", "of", "meat", "and","vegetables"], "raw": "a plate with a piece of meat and vegetables .", "imgid": 15, "sentid": 15}],
+"split": "train", "filename": "15.jpg"},
+
+{"sentids": [16], "imgid": 16, "sentences":
+[{"tokens": ["a", "couple", "of", "ducks", "that", "are", "swimming", "in","a","park"], "raw": "a couple of ducks that are swimming in a park .", "imgid": 16, "sentid": 16}],
+"split": "train", "filename": "16.jpg"},
+
+{"sentids": [17], "imgid": 17, "sentences":
+[{"tokens": ["a", "cat", "standing", "in", "the", "corner", "of", "a","car"], "raw": "a cat standing in the corner of a car .", "imgid": 17, "sentid": 17}],
+"split": "train", "filename": "17.jpg"},
+
+{"sentids": [18], "imgid": 18, "sentences":
+[{"tokens": ["a", "car", "with", "a", "lot", "of", "luggage", "on","the","back","of","it"], "raw": "a car with a lot of luggage on the back of it .", "imgid": 18, "sentid": 18}],
+"split": "train", "filename": "18.jpg"},
+
+{"sentids": [19], "imgid": 19, "sentences":
+[{"tokens": ["a", "plate", "of", "food", "that", "has", "great", "things"], "raw": "a plate of food that has great things .", "imgid": 19, "sentid": 19}],
+"split": "train", "filename": "19.jpg"},
+
+{"sentids": [20], "imgid": 20, "sentences":
+[{"tokens": ["a", "cat", "laying", "on", "top", "of", "a", "luggage","bag"], "raw": "a cat laying on top of a luggage bag .", "imgid": 20, "sentid": 20}],
+"split": "train", "filename": "20.jpg"}
+
+], "dataset": "raj21"}
